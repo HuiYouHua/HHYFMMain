@@ -1,9 +1,9 @@
 {
   "name": "HHYFMMain",
   "version": "0.1.0",
-  "summary": "A short description of HHYFMMain.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/793316968@qq.com/HHYFMMain",
+  "summary": "HHYFMMain",
+  "description": "HHYFM主框架",
+  "homepage": "https://github.com/HuiYouHua/HHYFMMain",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "793316968@qq.com": "793316968@qq.com"
   },
   "source": {
-    "git": "https://github.com/793316968@qq.com/HHYFMMain.git",
+    "git": "https://github.com/HuiYouHua/HHYFMMain.git",
     "tag": "0.1.0"
   },
   "platforms": {
