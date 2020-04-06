@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
     'HHYFMMain' => ['HHYFMMain/Assets/*']
   }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+   s.public_header_files = 'HHYFMMain/Classes/PublicAPI/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'HHYFMBase/Category'
 end
