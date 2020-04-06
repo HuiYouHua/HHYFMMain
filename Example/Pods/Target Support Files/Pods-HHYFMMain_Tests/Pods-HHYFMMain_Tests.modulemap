@@ -1,0 +1,6 @@
+framework module Pods_HHYFMMain_Tests {
+  umbrella header "Pods-HHYFMMain_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

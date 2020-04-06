@@ -1,0 +1,23 @@
+PODS:
+  - HHYFMBase/Category (0.2.0)
+  - HHYFMMain (0.1.0):
+    - HHYFMBase/Category
+
+DEPENDENCIES:
+  - HHYFMMain (from `../`)
+
+SPEC REPOS:
+  https://github.com/HuiYouHua/HHYSpecs.git:
+    - HHYFMBase
+
+EXTERNAL SOURCES:
+  HHYFMMain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHYFMBase: 8d0d84244b5e445c3cbaf4de5ea668890562ca3e
+  HHYFMMain: 4d25b02f46572c18cf50c4badc3143c19c5b5d84
+
+PODFILE CHECKSUM: bf4f68fdf0d4ad345cf96165492faefa9ce17ef6
+
+COCOAPODS: 1.9.1
